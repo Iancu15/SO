@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="lab09">
+</Property><Property Name="Solution File" Value="\\vmware-host\Shared Folders\so\labs\lab09\skel\win\lab09.sln">
+</Property><Property Name="Date" Value="Tuesday, May 10, 2022">
+</Property><Property Name="Time" Value="14:31 PM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="lab09.sln" Description="File successfully backed up as \\vmware-host\Shared Folders\so\labs\lab09\skel\win\lab09.sln.old">
+</Event><Event ErrorLevel="0" Project="1-threading" Source="1-threading\1-threading.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\1-threading\1-threading.vcproj'.">
+</Event><Event ErrorLevel="1" Project="1-threading" Source="1-threading\1-threading.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="1-threading" Source="1-threading\1-threading.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\1-threading\1-threading.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="1-threading" Source="1-threading\1-threading.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="3-interlocked" Source="3-interlocked\3-interlocked.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\3-interlocked\3-interlocked.vcproj'.">
+</Event><Event ErrorLevel="1" Project="3-interlocked" Source="3-interlocked\3-interlocked.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="3-interlocked" Source="3-interlocked\3-interlocked.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\3-interlocked\3-interlocked.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="3-interlocked" Source="3-interlocked\3-interlocked.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\7-sort\7-sort.vcproj'.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'CopyLocalDependencies' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="1" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Attribute 'UseDependenciesInBuild' of 'AssemblyReference' is not supported in this version and has been removed during conversion.">
+</Event><Event ErrorLevel="0" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\7-sort\7-sort.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="7-sort" Source="7-sort\7-sort.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="8-dean" Source="8-dean\8-dean.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\8-dean\8-dean.vcproj'.">
+</Event><Event ErrorLevel="1" Project="8-dean" Source="8-dean\8-dean.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="8-dean" Source="8-dean\8-dean.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\8-dean\8-dean.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="8-dean" Source="8-dean\8-dean.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="5-timer" Source="5-timer\5-timer.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\5-timer\5-timer.vcproj'.">
+</Event><Event ErrorLevel="1" Project="5-timer" Source="5-timer\5-timer.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="5-timer" Source="5-timer\5-timer.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\5-timer\5-timer.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="5-timer" Source="5-timer\5-timer.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="2-debug" Source="2-debug\2-debug.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\2-debug\2-debug.vcproj'.">
+</Event><Event ErrorLevel="1" Project="2-debug" Source="2-debug\2-debug.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="2-debug" Source="2-debug\2-debug.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\2-debug\2-debug.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="2-debug" Source="2-debug\2-debug.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="4-TLS" Source="4-TLS\4-TLS.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\4-TLS\4-TLS.vcproj'.">
+</Event><Event ErrorLevel="1" Project="4-TLS" Source="4-TLS\4-TLS.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="4-TLS" Source="4-TLS\4-TLS.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\4-TLS\4-TLS.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="4-TLS" Source="4-TLS\4-TLS.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="6-barrier" Source="6-barrier\6-barrier.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\6-barrier\6-barrier.vcproj'.">
+</Event><Event ErrorLevel="1" Project="6-barrier" Source="6-barrier\6-barrier.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="6-barrier" Source="6-barrier\6-barrier.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\6-barrier\6-barrier.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="6-barrier" Source="6-barrier\6-barrier.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="lab09.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="lab09.sln" Description="Converted">
+</Event></UpgradeLog>

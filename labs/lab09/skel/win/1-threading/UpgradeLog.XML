@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="1-threading">
+</Property><Property Name="Solution File" Value="\\vmware-host\Shared Folders\so\labs\lab09\skel\win\1-threading\1-threading.sln">
+</Property><Property Name="Date" Value="Tuesday, May 10, 2022">
+</Property><Property Name="Time" Value="15:00:45 PM">
+</Property></Properties><Event ErrorLevel="0" Project="1-threading" Source="1-threading.vcproj" Description="Converting project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\1-threading\1-threading.vcproj'.">
+</Event><Event ErrorLevel="1" Project="1-threading" Source="1-threading.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="1-threading" Source="1-threading.vcproj" Description="Done converting to new project file '\\vmware-host\Shared Folders\so\labs\lab09\skel\win\1-threading\1-threading.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="1-threading" Source="1-threading.vcproj" Description="Converted">
+</Event></UpgradeLog>

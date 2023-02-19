@@ -1,0 +1,7 @@
+16000
+Memcheck failed
+40) Test popen read.........................................failed  [ 0/95]
+41) Test popen write........................................passed  [04/95]
+Memcheck failed
+42) Test perror wait........................................failed  [ 0/95]
+43) Test perror fork........................................passed  [02/95]
